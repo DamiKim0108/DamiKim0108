@@ -17,11 +17,10 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DamiKim0108&layout=compact&bg_color=60,ffffff,ffffff&title_color=000000&text_color=000000"
           /> </div> 
     </div>
-<div align="center">
+
 [![Solved.ac
 sspdami](http://mazassumnida.wtf/api/v2/generate_badge?boj=sspdami)](https://solved.ac/sspdami)
 ![Dami profile](http://mazandi.herokuapp.com/api?handle=sspdami&theme=warm)
 
-</div>
     
 
